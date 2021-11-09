@@ -1,0 +1,8 @@
+Backspin
+Loop
+Sidespin
+Topspin
+Hit
+Flip
+Push
+Block

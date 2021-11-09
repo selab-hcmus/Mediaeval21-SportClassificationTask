@@ -1,0 +1,5 @@
+av
+decord >= 0.4.1
+onnx
+onnxruntime
+PyTurboJPEG
